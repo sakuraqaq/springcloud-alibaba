@@ -1,0 +1,12 @@
+2021-08-30 10:55:50,072 INFO [dump-all-ok] com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:spring-cloud-alibaba-dubbo-client:consumer:spring-cloud-alibaba-dubbo-server+dubbo, 1627541786809, length=363, md5=e3435f4388ef53c32af938783301b1f6
+
+2021-08-30 10:55:50,073 INFO [dump-all-ok] com.dnic.dubbo.example.service.TestService:::provider:spring-cloud-alibaba-dubbo-server+dubbo, 1627541786941, length=853, md5=d736a33f8c4a655ba93b76512d7aff95
+
+2021-08-30 10:55:50,074 INFO [dump-all-ok] com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:spring-cloud-alibaba-dubbo-server:provider:spring-cloud-alibaba-dubbo-server+dubbo, 1627541787044, length=1396, md5=97ff5dac2b1ee77bfe15ca13670144ba
+
+2021-08-30 15:09:26,305 INFO [dump-all-ok] com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:spring-cloud-alibaba-dubbo-client:consumer:spring-cloud-alibaba-dubbo-server+dubbo, 1627541786809, length=363, md5=e3435f4388ef53c32af938783301b1f6
+
+2021-08-30 15:09:26,305 INFO [dump-all-ok] com.dnic.dubbo.example.service.TestService:::provider:spring-cloud-alibaba-dubbo-server+dubbo, 1627541786941, length=853, md5=d736a33f8c4a655ba93b76512d7aff95
+
+2021-08-30 15:09:26,306 INFO [dump-all-ok] com.alibaba.cloud.dubbo.service.DubboMetadataService:1.0.0:spring-cloud-alibaba-dubbo-server:provider:spring-cloud-alibaba-dubbo-server+dubbo, 1627541787044, length=1396, md5=97ff5dac2b1ee77bfe15ca13670144ba
+

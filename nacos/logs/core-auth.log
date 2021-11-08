@@ -1,0 +1,400 @@
+2021-08-26 15:04:00,381 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:00,382 DEBUG auth start, request: GET /nacos/v1/ns/service/list
+
+2021-08-26 15:04:00,445 DEBUG access denied, request: GET /nacos/v1/ns/service/list, reason: unknown user!
+
+2021-08-26 15:04:00,526 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:00,526 DEBUG auth start, request: GET /nacos/v1/ns/service/list
+
+2021-08-26 15:04:00,526 DEBUG access denied, request: GET /nacos/v1/ns/service/list, reason: unknown user!
+
+2021-08-26 15:04:00,531 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:00,532 DEBUG auth start, request: GET /nacos/v1/ns/service/list
+
+2021-08-26 15:04:00,532 DEBUG access denied, request: GET /nacos/v1/ns/service/list, reason: unknown user!
+
+2021-08-26 15:04:01,194 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:01,195 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:01,195 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:01,200 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:01,200 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:01,200 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:01,204 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:01,204 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:01,205 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:01,213 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:01,214 DEBUG auth start, request: GET /nacos/v1/ns/service/list
+
+2021-08-26 15:04:01,214 DEBUG access denied, request: GET /nacos/v1/ns/service/list, reason: unknown user!
+
+2021-08-26 15:04:01,219 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:01,219 DEBUG auth start, request: GET /nacos/v1/ns/service/list
+
+2021-08-26 15:04:01,220 DEBUG access denied, request: GET /nacos/v1/ns/service/list, reason: unknown user!
+
+2021-08-26 15:04:01,224 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:01,224 DEBUG auth start, request: GET /nacos/v1/ns/service/list
+
+2021-08-26 15:04:01,225 DEBUG access denied, request: GET /nacos/v1/ns/service/list, reason: unknown user!
+
+2021-08-26 15:04:02,215 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:02,215 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:02,216 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:02,220 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:02,220 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:02,220 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:02,224 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:02,224 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:02,224 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:03,939 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:03,939 DEBUG auth start, request: POST /nacos/v1/ns/instance
+
+2021-08-26 15:04:03,939 DEBUG access denied, request: POST /nacos/v1/ns/instance, reason: unknown user!
+
+2021-08-26 15:04:03,944 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:03,944 DEBUG auth start, request: POST /nacos/v1/ns/instance
+
+2021-08-26 15:04:03,944 DEBUG access denied, request: POST /nacos/v1/ns/instance, reason: unknown user!
+
+2021-08-26 15:04:03,948 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:03,948 DEBUG auth start, request: POST /nacos/v1/ns/instance
+
+2021-08-26 15:04:03,949 DEBUG access denied, request: POST /nacos/v1/ns/instance, reason: unknown user!
+
+2021-08-26 15:04:04,237 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:04,237 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:04,238 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:04,242 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:04,242 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:04,242 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:04,246 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:04,246 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:04,246 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:08,261 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:08,261 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:08,261 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:08,266 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:08,266 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:08,266 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:08,270 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:08,270 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:08,270 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:09,029 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:09,030 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2021-08-26 15:04:09,030 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2021-08-26 15:04:09,041 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:09,042 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2021-08-26 15:04:09,042 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2021-08-26 15:04:09,055 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:09,055 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2021-08-26 15:04:09,056 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2021-08-26 15:04:28,407 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:28,407 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:28,407 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:28,422 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:28,422 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:28,422 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:28,426 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:28,426 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:28,426 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:28,459 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:28,460 DEBUG auth start, request: GET /nacos/v1/ns/service/list
+
+2021-08-26 15:04:28,460 DEBUG access denied, request: GET /nacos/v1/ns/service/list, reason: unknown user!
+
+2021-08-26 15:04:28,463 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:28,464 DEBUG auth start, request: GET /nacos/v1/ns/service/list
+
+2021-08-26 15:04:28,464 DEBUG access denied, request: GET /nacos/v1/ns/service/list, reason: unknown user!
+
+2021-08-26 15:04:28,468 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:28,468 DEBUG auth start, request: GET /nacos/v1/ns/service/list
+
+2021-08-26 15:04:28,468 DEBUG access denied, request: GET /nacos/v1/ns/service/list, reason: unknown user!
+
+2021-08-26 15:04:28,472 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:28,472 DEBUG auth start, request: GET /nacos/v1/ns/service/list
+
+2021-08-26 15:04:28,472 DEBUG access denied, request: GET /nacos/v1/ns/service/list, reason: unknown user!
+
+2021-08-26 15:04:28,476 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:28,476 DEBUG auth start, request: GET /nacos/v1/ns/service/list
+
+2021-08-26 15:04:28,476 DEBUG access denied, request: GET /nacos/v1/ns/service/list, reason: unknown user!
+
+2021-08-26 15:04:28,480 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:28,480 DEBUG auth start, request: GET /nacos/v1/ns/service/list
+
+2021-08-26 15:04:28,480 DEBUG access denied, request: GET /nacos/v1/ns/service/list, reason: unknown user!
+
+2021-08-26 15:04:29,433 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:29,433 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:29,433 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:29,436 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:29,436 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:29,437 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:29,440 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:29,440 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:29,440 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:31,454 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:31,454 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:31,454 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:31,457 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:31,458 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:31,458 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:31,461 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:31,461 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:31,461 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:35,472 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:35,472 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:35,472 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:35,475 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:35,476 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:35,476 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:35,479 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:35,479 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:35,479 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:43,484 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:43,484 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:43,484 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:43,488 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:43,488 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:43,488 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:43,492 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:43,492 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:43,492 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:59,503 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:59,503 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:59,503 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:59,506 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:59,507 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:59,507 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:04:59,510 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:04:59,510 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:04:59,511 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:05:31,519 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:31,519 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:05:31,519 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:05:31,523 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:31,523 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:05:31,523 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:05:31,526 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:31,526 DEBUG auth start, request: GET /nacos/v1/ns/instance/list
+
+2021-08-26 15:05:31,526 DEBUG access denied, request: GET /nacos/v1/ns/instance/list, reason: unknown user!
+
+2021-08-26 15:05:43,473 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,510 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,510 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,511 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,514 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,514 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,515 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,522 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,524 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,527 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,529 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,529 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,542 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,542 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,548 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,548 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,548 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,555 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,562 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,566 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,566 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,770 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,898 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,900 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,930 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:43,979 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:44,047 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:44,048 DEBUG auth start, request: GET /nacos/v1/cs/configs
+
+2021-08-26 15:05:44,071 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:44,084 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:44,114 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:44,141 DEBUG access denied, request: GET /nacos/v1/cs/configs, reason: token expired!
+
+2021-08-26 15:05:44,221 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:44,229 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:44,235 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:46,541 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:46,653 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:46,653 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:46,653 DEBUG auth start, request: GET /nacos/v1/cs/configs
+
+2021-08-26 15:05:46,656 DEBUG auth permission: Permission{resource=':*:config/*', action='r'}, user: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTYyOTk3OTU0Nn0.tHZp_zjlxi2YM8ecYHZ06r-J2F4LaEZSJKN2MEpifbg', globalAdmin=true}
+
+2021-08-26 15:05:50,740 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:53,182 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:53,183 DEBUG auth start, request: GET /nacos/v1/ns/catalog/services
+
+2021-08-26 15:05:53,184 DEBUG auth permission: Permission{resource=':*:naming/*', action='r'}, user: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTYyOTk3OTU0Nn0.tHZp_zjlxi2YM8ecYHZ06r-J2F4LaEZSJKN2MEpifbg', globalAdmin=true}
+
+2021-08-26 15:05:54,558 WARN Invalid server identity value for serverIdentity from 127.0.0.1
+
+2021-08-26 15:05:54,558 DEBUG auth start, request: GET /nacos/v1/ns/catalog/services
+
+2021-08-26 15:05:54,561 DEBUG auth permission: Permission{resource=':*:naming/*', action='r'}, user: NacosUser{token='eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTYyOTk3OTU0Nn0.tHZp_zjlxi2YM8ecYHZ06r-J2F4LaEZSJKN2MEpifbg', globalAdmin=true}
+

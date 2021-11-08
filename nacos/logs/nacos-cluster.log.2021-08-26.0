@@ -1,0 +1,18 @@
+2021-08-26 15:03:50,711 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2021-08-26 15:03:50,715 WARN [serverlist] updated to : [Member{ip='192.168.160.1', port=4396, state=UP, extendInfo={raftPort=3396}}]
+
+2021-08-26 15:03:52,905 INFO This node is ready to provide external services
+
+2021-08-26 15:06:40,217 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2021-08-26 15:06:40,220 WARN [serverlist] updated to : [Member{ip='192.168.160.1', port=4396, state=UP, extendInfo={raftPort=3396}}]
+
+2021-08-26 15:08:20,299 INFO This node is ready to provide external services
+
+2021-08-26 17:23:10,995 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2021-08-26 17:23:10,998 WARN [serverlist] updated to : [Member{ip='192.168.160.1', port=4396, state=UP, extendInfo={raftPort=3396}}]
+
+2021-08-26 17:23:12,939 INFO This node is ready to provide external services
+

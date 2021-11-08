@@ -1,0 +1,732 @@
+2021-08-26 15:08:37,472 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 15:08:37,485 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:55653, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,55653,1809583994348600
+
+2021-08-26 15:08:37,485 INFO send udp packet: 172.30.48.1,55653,1809583994348600
+
+2021-08-26 15:08:37,493 INFO received ack: {"type": "push-ack", "lastRefTime":"1809583994348600", "data":""} from: 172.30.48.1:55653, cost: 8 ms, unacked: 0, total push: 1
+
+2021-08-26 15:08:54,273 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 15:08:54,273 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:62034, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,62034,1809600790112300
+
+2021-08-26 15:08:54,274 INFO send udp packet: 172.30.48.1,62034,1809600790112300
+
+2021-08-26 15:08:54,278 INFO received ack: {"type": "push-ack", "lastRefTime":"1809600790112300", "data":""} from: 172.30.48.1:62034, cost: 4 ms, unacked: 0, total push: 2
+
+2021-08-26 15:10:24,405 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 15:10:24,405 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:62581, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,62581,1809690921458900
+
+2021-08-26 15:10:24,405 INFO send udp packet: 172.30.48.1,62581,1809690921458900
+
+2021-08-26 15:10:24,406 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:55653, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,55653,1809690921458900
+
+2021-08-26 15:10:24,406 INFO send udp packet: 172.30.48.1,55653,1809690921458900
+
+2021-08-26 15:10:24,407 INFO received ack: {"type": "push-ack", "lastRefTime":"1809690921458900", "data":""} from: 172.30.48.1:55653, cost: 1 ms, unacked: 1, total push: 4
+
+2021-08-26 15:10:24,408 INFO received ack: {"type": "push-ack", "lastRefTime":"1809690921458900", "data":""} from: 172.30.48.1:62581, cost: 3 ms, unacked: 0, total push: 4
+
+2021-08-26 15:10:30,309 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 15:10:30,309 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:62581, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,62581,1809696825504500
+
+2021-08-26 15:10:30,309 INFO send udp packet: 172.30.48.1,62581,1809696825504500
+
+2021-08-26 15:10:30,310 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:55653, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,55653,1809696825504500
+
+2021-08-26 15:10:30,310 INFO send udp packet: 172.30.48.1,55653,1809696825504500
+
+2021-08-26 15:10:30,310 INFO received ack: {"type": "push-ack", "lastRefTime":"1809696825504500", "data":""} from: 172.30.48.1:62581, cost: 1 ms, unacked: 1, total push: 6
+
+2021-08-26 15:10:30,311 INFO received ack: {"type": "push-ack", "lastRefTime":"1809696825504500", "data":""} from: 172.30.48.1:55653, cost: 1 ms, unacked: 0, total push: 6
+
+2021-08-26 15:11:34,506 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 15:11:34,506 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:55653, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,55653,1809761022247600
+
+2021-08-26 15:11:34,506 INFO send udp packet: 172.30.48.1,55653,1809761022247600
+
+2021-08-26 15:11:34,507 INFO received ack: {"type": "push-ack", "lastRefTime":"1809761022247600", "data":""} from: 172.30.48.1:55653, cost: 1 ms, unacked: 0, total push: 7
+
+2021-08-26 15:11:49,577 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 15:11:49,577 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:55653, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,55653,1809776093493400
+
+2021-08-26 15:11:49,577 INFO send udp packet: 172.30.48.1,55653,1809776093493400
+
+2021-08-26 15:11:49,585 INFO received ack: {"type": "push-ack", "lastRefTime":"1809776093493400", "data":""} from: 172.30.48.1:55653, cost: 8 ms, unacked: 0, total push: 8
+
+2021-08-26 15:12:21,852 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 15:12:21,852 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:50461, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,50461,1809808368874500
+
+2021-08-26 15:12:21,852 INFO send udp packet: 172.30.48.1,50461,1809808368874500
+
+2021-08-26 15:12:21,859 INFO received ack: {"type": "push-ack", "lastRefTime":"1809808368874500", "data":""} from: 172.30.48.1:50461, cost: 7 ms, unacked: 0, total push: 9
+
+2021-08-26 15:48:36,263 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 15:48:36,263 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:50461, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,50461,1811982779805700
+
+2021-08-26 15:48:36,263 INFO send udp packet: 172.30.48.1,50461,1811982779805700
+
+2021-08-26 15:48:36,265 INFO received ack: {"type": "push-ack", "lastRefTime":"1811982779805700", "data":""} from: 172.30.48.1:50461, cost: 1 ms, unacked: 0, total push: 10
+
+2021-08-26 15:48:48,210 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 15:48:51,290 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 15:49:03,232 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 15:52:30,451 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 15:52:30,451 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:60640, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,60640,1812216966939600
+
+2021-08-26 15:52:30,451 INFO send udp packet: 172.30.48.1,60640,1812216966939600
+
+2021-08-26 15:52:30,453 INFO received ack: {"type": "push-ack", "lastRefTime":"1812216966939600", "data":""} from: 172.30.48.1:60640, cost: 2 ms, unacked: 0, total push: 11
+
+2021-08-26 15:52:47,460 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 15:52:47,460 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:49153, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,49153,1812233976555500
+
+2021-08-26 15:52:47,460 INFO send udp packet: 172.30.48.1,49153,1812233976555500
+
+2021-08-26 15:52:47,464 INFO received ack: {"type": "push-ack", "lastRefTime":"1812233976555500", "data":""} from: 172.30.48.1:49153, cost: 4 ms, unacked: 0, total push: 12
+
+2021-08-26 15:56:45,825 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 15:56:47,885 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 15:57:00,853 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 15:57:02,911 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 15:59:28,291 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 15:59:28,291 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:55551, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,55551,1812634807643000
+
+2021-08-26 15:59:28,291 INFO send udp packet: 172.30.48.1,55551,1812634807643000
+
+2021-08-26 15:59:28,294 INFO received ack: {"type": "push-ack", "lastRefTime":"1812634807643000", "data":""} from: 172.30.48.1:55551, cost: 3 ms, unacked: 0, total push: 13
+
+2021-08-26 15:59:42,420 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 15:59:42,420 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:55551, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,55551,1812648936727600
+
+2021-08-26 15:59:42,420 INFO send udp packet: 172.30.48.1,55551,1812648936727600
+
+2021-08-26 15:59:42,420 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:50461, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,50461,1812648936727600
+
+2021-08-26 15:59:42,420 INFO send udp packet: 172.30.48.1,50461,1812648936727600
+
+2021-08-26 15:59:42,422 INFO received ack: {"type": "push-ack", "lastRefTime":"1812648936727600", "data":""} from: 172.30.48.1:55551, cost: 2 ms, unacked: 1, total push: 15
+
+2021-08-26 15:59:42,425 INFO received ack: {"type": "push-ack", "lastRefTime":"1812648936727600", "data":""} from: 172.30.48.1:50461, cost: 5 ms, unacked: 0, total push: 15
+
+2021-08-26 16:02:27,685 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:02:27,685 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:55551, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,55551,1812814201708500
+
+2021-08-26 16:02:27,685 INFO send udp packet: 172.30.48.1,55551,1812814201708500
+
+2021-08-26 16:02:27,685 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:59424, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,59424,1812814201708500
+
+2021-08-26 16:02:27,685 INFO send udp packet: 172.30.48.1,59424,1812814201708500
+
+2021-08-26 16:02:27,687 INFO received ack: {"type": "push-ack", "lastRefTime":"1812814201708500", "data":""} from: 172.30.48.1:55551, cost: 2 ms, unacked: 1, total push: 17
+
+2021-08-26 16:02:27,688 INFO received ack: {"type": "push-ack", "lastRefTime":"1812814201708500", "data":""} from: 172.30.48.1:59424, cost: 3 ms, unacked: 0, total push: 17
+
+2021-08-26 16:02:33,081 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:02:33,081 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:55551, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,55551,1812819597953500
+
+2021-08-26 16:02:33,081 INFO send udp packet: 172.30.48.1,55551,1812819597953500
+
+2021-08-26 16:02:33,081 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:59424, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,59424,1812819597953500
+
+2021-08-26 16:02:33,081 INFO send udp packet: 172.30.48.1,59424,1812819597953500
+
+2021-08-26 16:02:33,083 INFO received ack: {"type": "push-ack", "lastRefTime":"1812819597953500", "data":""} from: 172.30.48.1:55551, cost: 2 ms, unacked: 1, total push: 19
+
+2021-08-26 16:02:33,083 INFO received ack: {"type": "push-ack", "lastRefTime":"1812819597953500", "data":""} from: 172.30.48.1:59424, cost: 2 ms, unacked: 0, total push: 19
+
+2021-08-26 16:03:09,902 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:03:09,902 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:59497, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,59497,1812856418732100
+
+2021-08-26 16:03:09,902 INFO send udp packet: 172.30.48.1,59497,1812856418732100
+
+2021-08-26 16:03:09,902 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:55551, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,55551,1812856418732100
+
+2021-08-26 16:03:09,902 INFO send udp packet: 172.30.48.1,55551,1812856418732100
+
+2021-08-26 16:03:09,903 INFO received ack: {"type": "push-ack", "lastRefTime":"1812856418732100", "data":""} from: 172.30.48.1:55551, cost: 1 ms, unacked: 1, total push: 21
+
+2021-08-26 16:03:09,905 INFO received ack: {"type": "push-ack", "lastRefTime":"1812856418732100", "data":""} from: 172.30.48.1:59497, cost: 3 ms, unacked: 0, total push: 21
+
+2021-08-26 16:04:16,157 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:04:16,157 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:60683, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,60683,1812922673438000
+
+2021-08-26 16:04:16,157 INFO send udp packet: 172.30.48.1,60683,1812922673438000
+
+2021-08-26 16:04:16,157 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:55551, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,55551,1812922673438000
+
+2021-08-26 16:04:16,157 INFO send udp packet: 172.30.48.1,55551,1812922673438000
+
+2021-08-26 16:04:16,158 INFO received ack: {"type": "push-ack", "lastRefTime":"1812922673438000", "data":""} from: 172.30.48.1:55551, cost: 1 ms, unacked: 1, total push: 23
+
+2021-08-26 16:04:16,160 INFO received ack: {"type": "push-ack", "lastRefTime":"1812922673438000", "data":""} from: 172.30.48.1:60683, cost: 3 ms, unacked: 0, total push: 23
+
+2021-08-26 16:04:52,939 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:04:53,832 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 16:05:03,850 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 16:05:07,953 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:09:08,826 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 16:09:08,826 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:59435, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,59435,1813215342344500
+
+2021-08-26 16:09:08,826 INFO send udp packet: 172.30.48.1,59435,1813215342344500
+
+2021-08-26 16:09:08,826 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:60042, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,60042,1813215342344500
+
+2021-08-26 16:09:08,826 INFO send udp packet: 172.30.48.1,60042,1813215342344500
+
+2021-08-26 16:09:08,829 INFO received ack: {"type": "push-ack", "lastRefTime":"1813215342344500", "data":""} from: 172.30.48.1:59435, cost: 3 ms, unacked: 1, total push: 25
+
+2021-08-26 16:09:08,876 INFO received ack: {"type": "push-ack", "lastRefTime":"1813215342344500", "data":""} from: 172.30.48.1:60042, cost: 50 ms, unacked: 0, total push: 25
+
+2021-08-26 16:10:03,007 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:10:03,007 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:60992, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,60992,1813269523217500
+
+2021-08-26 16:10:03,007 INFO send udp packet: 172.30.48.1,60992,1813269523217500
+
+2021-08-26 16:10:03,011 INFO received ack: {"type": "push-ack", "lastRefTime":"1813269523217500", "data":""} from: 172.30.48.1:60992, cost: 4 ms, unacked: 0, total push: 26
+
+2021-08-26 16:13:14,176 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 16:13:14,176 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:60992, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,60992,1813460692022200
+
+2021-08-26 16:13:14,176 INFO send udp packet: 172.30.48.1,60992,1813460692022200
+
+2021-08-26 16:13:14,177 INFO received ack: {"type": "push-ack", "lastRefTime":"1813460692022200", "data":""} from: 172.30.48.1:60992, cost: 1 ms, unacked: 0, total push: 27
+
+2021-08-26 16:13:28,330 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:13:29,215 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 16:13:43,353 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:26:34,057 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 16:26:34,057 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:57240, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,57240,1814260572991000
+
+2021-08-26 16:26:34,057 INFO send udp packet: 172.30.48.1,57240,1814260572991000
+
+2021-08-26 16:26:34,060 INFO received ack: {"type": "push-ack", "lastRefTime":"1814260572991000", "data":""} from: 172.30.48.1:57240, cost: 3 ms, unacked: 0, total push: 28
+
+2021-08-26 16:27:19,492 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:27:19,492 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:53666, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,53666,1814306008265900
+
+2021-08-26 16:27:19,493 INFO send udp packet: 172.30.48.1,53666,1814306008265900
+
+2021-08-26 16:27:19,498 INFO received ack: {"type": "push-ack", "lastRefTime":"1814306008265900", "data":""} from: 172.30.48.1:53666, cost: 5 ms, unacked: 0, total push: 29
+
+2021-08-26 16:39:35,299 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 16:39:35,299 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:53666, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,53666,1815041815151900
+
+2021-08-26 16:39:35,299 INFO send udp packet: 172.30.48.1,53666,1815041815151900
+
+2021-08-26 16:39:35,300 INFO received ack: {"type": "push-ack", "lastRefTime":"1815041815151900", "data":""} from: 172.30.48.1:53666, cost: 1 ms, unacked: 0, total push: 30
+
+2021-08-26 16:39:42,322 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 16:39:42,322 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:51670, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,51670,1815048838621800
+
+2021-08-26 16:39:42,322 INFO send udp packet: 172.30.48.1,51670,1815048838621800
+
+2021-08-26 16:39:42,322 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:53666, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,53666,1815048838621800
+
+2021-08-26 16:39:42,322 INFO send udp packet: 172.30.48.1,53666,1815048838621800
+
+2021-08-26 16:39:42,324 INFO received ack: {"type": "push-ack", "lastRefTime":"1815048838621800", "data":""} from: 172.30.48.1:53666, cost: 2 ms, unacked: 1, total push: 32
+
+2021-08-26 16:39:42,327 INFO received ack: {"type": "push-ack", "lastRefTime":"1815048838621800", "data":""} from: 172.30.48.1:51670, cost: 5 ms, unacked: 0, total push: 32
+
+2021-08-26 16:39:48,349 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 16:39:48,349 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:51670, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,51670,1815054866012200
+
+2021-08-26 16:39:48,349 INFO send udp packet: 172.30.48.1,51670,1815054866012200
+
+2021-08-26 16:39:48,349 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:53666, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,53666,1815054866012200
+
+2021-08-26 16:39:48,349 INFO send udp packet: 172.30.48.1,53666,1815054866012200
+
+2021-08-26 16:39:48,350 INFO received ack: {"type": "push-ack", "lastRefTime":"1815054866012200", "data":""} from: 172.30.48.1:53666, cost: 1 ms, unacked: 1, total push: 34
+
+2021-08-26 16:39:48,350 INFO received ack: {"type": "push-ack", "lastRefTime":"1815054866012200", "data":""} from: 172.30.48.1:51670, cost: 1 ms, unacked: 0, total push: 34
+
+2021-08-26 16:41:10,448 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 16:41:10,448 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:53666, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,53666,1815136964402000
+
+2021-08-26 16:41:10,448 INFO send udp packet: 172.30.48.1,53666,1815136964402000
+
+2021-08-26 16:41:10,449 INFO received ack: {"type": "push-ack", "lastRefTime":"1815136964402000", "data":""} from: 172.30.48.1:53666, cost: 1 ms, unacked: 0, total push: 35
+
+2021-08-26 16:41:25,482 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 16:41:30,854 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:41:45,860 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:42:33,737 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 16:42:33,737 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:56252, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,56252,1815220253852000
+
+2021-08-26 16:42:33,737 INFO send udp packet: 172.30.48.1,56252,1815220253852000
+
+2021-08-26 16:42:33,740 INFO received ack: {"type": "push-ack", "lastRefTime":"1815220253852000", "data":""} from: 172.30.48.1:56252, cost: 3 ms, unacked: 0, total push: 36
+
+2021-08-26 16:42:56,256 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:42:56,256 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:57297, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,57297,1815242772754000
+
+2021-08-26 16:42:56,256 INFO send udp packet: 172.30.48.1,57297,1815242772754000
+
+2021-08-26 16:42:56,261 INFO received ack: {"type": "push-ack", "lastRefTime":"1815242772754000", "data":""} from: 172.30.48.1:57297, cost: 5 ms, unacked: 0, total push: 37
+
+2021-08-26 16:45:29,739 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:45:29,739 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:56252, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,56252,1815396255560000
+
+2021-08-26 16:45:29,739 INFO send udp packet: 172.30.48.1,56252,1815396255560000
+
+2021-08-26 16:45:29,739 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:52137, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,52137,1815396255560000
+
+2021-08-26 16:45:29,740 INFO send udp packet: 172.30.48.1,52137,1815396255560000
+
+2021-08-26 16:45:29,740 INFO received ack: {"type": "push-ack", "lastRefTime":"1815396255560000", "data":""} from: 172.30.48.1:56252, cost: 1 ms, unacked: 1, total push: 39
+
+2021-08-26 16:45:29,790 INFO received ack: {"type": "push-ack", "lastRefTime":"1815396255560000", "data":""} from: 172.30.48.1:52137, cost: 50 ms, unacked: 0, total push: 39
+
+2021-08-26 16:46:40,903 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 16:46:40,903 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:52137, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,52137,1815467419877400
+
+2021-08-26 16:46:40,903 INFO send udp packet: 172.30.48.1,52137,1815467419877400
+
+2021-08-26 16:46:40,904 INFO received ack: {"type": "push-ack", "lastRefTime":"1815467419877400", "data":""} from: 172.30.48.1:52137, cost: 1 ms, unacked: 0, total push: 40
+
+2021-08-26 16:46:51,104 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 16:46:51,104 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:56830, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,56830,1815477620501300
+
+2021-08-26 16:46:51,104 INFO send udp packet: 172.30.48.1,56830,1815477620501300
+
+2021-08-26 16:46:51,104 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:52137, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,52137,1815477620501300
+
+2021-08-26 16:46:51,104 INFO send udp packet: 172.30.48.1,52137,1815477620501300
+
+2021-08-26 16:46:51,107 INFO received ack: {"type": "push-ack", "lastRefTime":"1815477620501300", "data":""} from: 172.30.48.1:52137, cost: 3 ms, unacked: 1, total push: 42
+
+2021-08-26 16:46:51,109 INFO received ack: {"type": "push-ack", "lastRefTime":"1815477620501300", "data":""} from: 172.30.48.1:56830, cost: 5 ms, unacked: 0, total push: 42
+
+2021-08-26 16:46:57,120 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 16:46:57,120 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:56830, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,56830,1815483636402200
+
+2021-08-26 16:46:57,120 INFO send udp packet: 172.30.48.1,56830,1815483636402200
+
+2021-08-26 16:46:57,120 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:52137, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,52137,1815483636402200
+
+2021-08-26 16:46:57,120 INFO send udp packet: 172.30.48.1,52137,1815483636402200
+
+2021-08-26 16:46:57,121 INFO received ack: {"type": "push-ack", "lastRefTime":"1815483636402200", "data":""} from: 172.30.48.1:56830, cost: 1 ms, unacked: 1, total push: 44
+
+2021-08-26 16:46:57,121 INFO received ack: {"type": "push-ack", "lastRefTime":"1815483636402200", "data":""} from: 172.30.48.1:52137, cost: 1 ms, unacked: 0, total push: 44
+
+2021-08-26 16:47:11,370 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:47:11,370 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:56830, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,56830,1815497886619200
+
+2021-08-26 16:47:11,370 INFO send udp packet: 172.30.48.1,56830,1815497886619200
+
+2021-08-26 16:47:11,371 INFO received ack: {"type": "push-ack", "lastRefTime":"1815497886619200", "data":""} from: 172.30.48.1:56830, cost: 1 ms, unacked: 0, total push: 45
+
+2021-08-26 16:47:18,987 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:47:18,987 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:61190, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,61190,1815505503706400
+
+2021-08-26 16:47:18,987 INFO send udp packet: 172.30.48.1,61190,1815505503706400
+
+2021-08-26 16:47:18,987 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:56830, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,56830,1815505503706400
+
+2021-08-26 16:47:18,987 INFO send udp packet: 172.30.48.1,56830,1815505503706400
+
+2021-08-26 16:47:18,988 INFO received ack: {"type": "push-ack", "lastRefTime":"1815505503706400", "data":""} from: 172.30.48.1:56830, cost: 1 ms, unacked: 1, total push: 47
+
+2021-08-26 16:47:18,990 INFO received ack: {"type": "push-ack", "lastRefTime":"1815505503706400", "data":""} from: 172.30.48.1:61190, cost: 3 ms, unacked: 0, total push: 47
+
+2021-08-26 16:47:23,992 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:47:23,992 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:61190, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,61190,1815510508257500
+
+2021-08-26 16:47:23,992 INFO send udp packet: 172.30.48.1,61190,1815510508257500
+
+2021-08-26 16:47:23,992 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:56830, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,56830,1815510508257500
+
+2021-08-26 16:47:23,992 INFO send udp packet: 172.30.48.1,56830,1815510508257500
+
+2021-08-26 16:47:23,993 INFO received ack: {"type": "push-ack", "lastRefTime":"1815510508257500", "data":""} from: 172.30.48.1:61190, cost: 1 ms, unacked: 1, total push: 49
+
+2021-08-26 16:47:23,993 INFO received ack: {"type": "push-ack", "lastRefTime":"1815510508257500", "data":""} from: 172.30.48.1:56830, cost: 1 ms, unacked: 0, total push: 49
+
+2021-08-26 16:53:42,033 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:53:42,034 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:56830, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,56830,1815888550131800
+
+2021-08-26 16:53:42,034 INFO send udp packet: 172.30.48.1,56830,1815888550131800
+
+2021-08-26 16:53:42,035 INFO received ack: {"type": "push-ack", "lastRefTime":"1815888550131800", "data":""} from: 172.30.48.1:56830, cost: 1 ms, unacked: 0, total push: 50
+
+2021-08-26 16:53:57,045 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:53:57,045 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:56830, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,56830,1815903561388500
+
+2021-08-26 16:53:57,045 INFO send udp packet: 172.30.48.1,56830,1815903561388500
+
+2021-08-26 16:53:57,048 INFO received ack: {"type": "push-ack", "lastRefTime":"1815903561388500", "data":""} from: 172.30.48.1:56830, cost: 3 ms, unacked: 0, total push: 51
+
+2021-08-26 16:55:12,513 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:55:12,513 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:65113, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,65113,1815979029462500
+
+2021-08-26 16:55:12,513 INFO send udp packet: 172.30.48.1,65113,1815979029462500
+
+2021-08-26 16:55:12,517 INFO received ack: {"type": "push-ack", "lastRefTime":"1815979029462500", "data":""} from: 172.30.48.1:65113, cost: 4 ms, unacked: 0, total push: 52
+
+2021-08-26 16:57:21,842 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 16:57:21,842 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:65113, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,65113,1816108358017100
+
+2021-08-26 16:57:21,842 INFO send udp packet: 172.30.48.1,65113,1816108358017100
+
+2021-08-26 16:57:21,843 INFO received ack: {"type": "push-ack", "lastRefTime":"1816108358017100", "data":""} from: 172.30.48.1:65113, cost: 1 ms, unacked: 0, total push: 53
+
+2021-08-26 16:57:30,586 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 16:57:30,586 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:65113, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,65113,1816117101955200
+
+2021-08-26 16:57:30,586 INFO send udp packet: 172.30.48.1,65113,1816117101955200
+
+2021-08-26 16:57:30,586 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:62624, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,62624,1816117101955200
+
+2021-08-26 16:57:30,586 INFO send udp packet: 172.30.48.1,62624,1816117101955200
+
+2021-08-26 16:57:30,587 INFO received ack: {"type": "push-ack", "lastRefTime":"1816117101955200", "data":""} from: 172.30.48.1:65113, cost: 1 ms, unacked: 1, total push: 55
+
+2021-08-26 16:57:30,590 INFO received ack: {"type": "push-ack", "lastRefTime":"1816117101955200", "data":""} from: 172.30.48.1:62624, cost: 4 ms, unacked: 0, total push: 55
+
+2021-08-26 16:57:36,609 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 16:57:36,609 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:65113, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,65113,1816123124975800
+
+2021-08-26 16:57:36,609 INFO send udp packet: 172.30.48.1,65113,1816123124975800
+
+2021-08-26 16:57:36,609 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:62624, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,62624,1816123124975800
+
+2021-08-26 16:57:36,609 INFO send udp packet: 172.30.48.1,62624,1816123124975800
+
+2021-08-26 16:57:36,609 INFO received ack: {"type": "push-ack", "lastRefTime":"1816123124975800", "data":""} from: 172.30.48.1:65113, cost: 0 ms, unacked: 1, total push: 57
+
+2021-08-26 16:57:36,609 INFO received ack: {"type": "push-ack", "lastRefTime":"1816123124975800", "data":""} from: 172.30.48.1:62624, cost: 0 ms, unacked: 0, total push: 57
+
+2021-08-26 16:57:52,420 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:57:52,420 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:62624, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,62624,1816138936289700
+
+2021-08-26 16:57:52,420 INFO send udp packet: 172.30.48.1,62624,1816138936289700
+
+2021-08-26 16:57:52,421 INFO received ack: {"type": "push-ack", "lastRefTime":"1816138936289700", "data":""} from: 172.30.48.1:62624, cost: 1 ms, unacked: 0, total push: 58
+
+2021-08-26 16:57:55,896 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:57:55,896 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:63660, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,63660,1816142411954900
+
+2021-08-26 16:57:55,896 INFO send udp packet: 172.30.48.1,63660,1816142411954900
+
+2021-08-26 16:57:55,896 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:62624, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,62624,1816142411954900
+
+2021-08-26 16:57:55,896 INFO send udp packet: 172.30.48.1,62624,1816142411954900
+
+2021-08-26 16:57:55,896 INFO received ack: {"type": "push-ack", "lastRefTime":"1816142411954900", "data":""} from: 172.30.48.1:62624, cost: 0 ms, unacked: 1, total push: 60
+
+2021-08-26 16:57:55,898 INFO received ack: {"type": "push-ack", "lastRefTime":"1816142411954900", "data":""} from: 172.30.48.1:63660, cost: 2 ms, unacked: 0, total push: 60
+
+2021-08-26 16:58:00,894 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 16:58:00,894 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:63660, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,63660,1816147410118600
+
+2021-08-26 16:58:00,894 INFO send udp packet: 172.30.48.1,63660,1816147410118600
+
+2021-08-26 16:58:00,894 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 172.30.48.1:62624, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,62624,1816147410118600
+
+2021-08-26 16:58:00,894 INFO send udp packet: 172.30.48.1,62624,1816147410118600
+
+2021-08-26 16:58:00,895 INFO received ack: {"type": "push-ack", "lastRefTime":"1816147410118600", "data":""} from: 172.30.48.1:63660, cost: 1 ms, unacked: 1, total push: 62
+
+2021-08-26 16:58:00,895 INFO received ack: {"type": "push-ack", "lastRefTime":"1816147410118600", "data":""} from: 172.30.48.1:62624, cost: 1 ms, unacked: 0, total push: 62
+
+2021-08-26 17:06:52,736 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:06:52,736 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:63660, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,63660,1816679252423700
+
+2021-08-26 17:06:52,736 INFO send udp packet: 172.30.48.1,63660,1816679252423700
+
+2021-08-26 17:06:52,737 INFO received ack: {"type": "push-ack", "lastRefTime":"1816679252423700", "data":""} from: 172.30.48.1:63660, cost: 1 ms, unacked: 0, total push: 63
+
+2021-08-26 17:07:02,697 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:07:02,697 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:58877, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,58877,1816689213771200
+
+2021-08-26 17:07:02,697 INFO send udp packet: 172.30.48.1,58877,1816689213771200
+
+2021-08-26 17:07:02,697 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:63660, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,63660,1816689213771200
+
+2021-08-26 17:07:02,697 INFO send udp packet: 172.30.48.1,63660,1816689213771200
+
+2021-08-26 17:07:02,699 INFO received ack: {"type": "push-ack", "lastRefTime":"1816689213771200", "data":""} from: 172.30.48.1:63660, cost: 2 ms, unacked: 1, total push: 65
+
+2021-08-26 17:07:08,915 INFO received ack: {"type": "push-ack", "lastRefTime":"1816689213771200", "data":""} from: 172.30.48.1:58877, cost: 6218 ms, unacked: 0, total push: 65
+
+2021-08-26 17:07:09,916 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:07:09,916 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:58877, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,58877,1816696432448800
+
+2021-08-26 17:07:09,916 INFO send udp packet: 172.30.48.1,58877,1816696432448800
+
+2021-08-26 17:07:09,916 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 172.30.48.1:63660, agent: Nacos-Java-Client:v1.4.2, key: 172.30.48.1,63660,1816696432448800
+
+2021-08-26 17:07:09,916 INFO send udp packet: 172.30.48.1,63660,1816696432448800
+
+2021-08-26 17:07:09,917 INFO received ack: {"type": "push-ack", "lastRefTime":"1816696432448800", "data":""} from: 172.30.48.1:63660, cost: 1 ms, unacked: 1, total push: 67
+
+2021-08-26 17:07:09,917 INFO received ack: {"type": "push-ack", "lastRefTime":"1816696432448800", "data":""} from: 172.30.48.1:58877, cost: 1 ms, unacked: 0, total push: 67
+
+2021-08-26 17:23:16,967 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:23:16,980 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:49550, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,49550,451563640300
+
+2021-08-26 17:23:16,980 INFO send udp packet: 192.168.160.1,49550,451563640300
+
+2021-08-26 17:23:16,999 INFO received ack: {"type": "push-ack", "lastRefTime":"451563640300", "data":""} from: 192.168.160.1:49550, cost: 19 ms, unacked: 0, total push: 1
+
+2021-08-26 17:23:33,154 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 17:23:33,154 INFO serviceName: DEFAULT_GROUP@@dubbo-consumer changed, schedule push for: 192.168.160.1:57894, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,57894,467744215500
+
+2021-08-26 17:23:33,154 INFO send udp packet: 192.168.160.1,57894,467744215500
+
+2021-08-26 17:23:33,159 INFO received ack: {"type": "push-ack", "lastRefTime":"467744215500", "data":""} from: 192.168.160.1:57894, cost: 5 ms, unacked: 0, total push: 2
+
+2021-08-26 17:23:56,996 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:23:56,997 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:57894, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,57894,491586458100
+
+2021-08-26 17:23:56,997 INFO send udp packet: 192.168.160.1,57894,491586458100
+
+2021-08-26 17:23:56,998 INFO received ack: {"type": "push-ack", "lastRefTime":"491586458100", "data":""} from: 192.168.160.1:57894, cost: 1 ms, unacked: 0, total push: 3
+
+2021-08-26 17:24:09,405 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:24:09,405 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:57894, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,57894,503996129100
+
+2021-08-26 17:24:09,405 INFO send udp packet: 192.168.160.1,57894,503996129100
+
+2021-08-26 17:24:09,406 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:49944, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,49944,503996129100
+
+2021-08-26 17:24:09,406 INFO send udp packet: 192.168.160.1,49944,503996129100
+
+2021-08-26 17:24:09,408 INFO received ack: {"type": "push-ack", "lastRefTime":"503996129100", "data":""} from: 192.168.160.1:57894, cost: 3 ms, unacked: 1, total push: 5
+
+2021-08-26 17:24:09,411 INFO received ack: {"type": "push-ack", "lastRefTime":"503996129100", "data":""} from: 192.168.160.1:49944, cost: 5 ms, unacked: 0, total push: 5
+
+2021-08-26 17:24:15,425 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:24:15,425 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:57894, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,57894,510015746900
+
+2021-08-26 17:24:15,425 INFO send udp packet: 192.168.160.1,57894,510015746900
+
+2021-08-26 17:24:15,426 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:49944, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,49944,510015746900
+
+2021-08-26 17:24:15,426 INFO send udp packet: 192.168.160.1,49944,510015746900
+
+2021-08-26 17:24:15,426 INFO received ack: {"type": "push-ack", "lastRefTime":"510015746900", "data":""} from: 192.168.160.1:57894, cost: 1 ms, unacked: 1, total push: 7
+
+2021-08-26 17:24:15,427 INFO received ack: {"type": "push-ack", "lastRefTime":"510015746900", "data":""} from: 192.168.160.1:49944, cost: 1 ms, unacked: 0, total push: 7
+
+2021-08-26 17:25:10,263 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:25:10,263 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:57894, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,57894,564853385500
+
+2021-08-26 17:25:10,263 INFO send udp packet: 192.168.160.1,57894,564853385500
+
+2021-08-26 17:25:10,264 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:56851, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,56851,564853385500
+
+2021-08-26 17:25:10,264 INFO send udp packet: 192.168.160.1,56851,564853385500
+
+2021-08-26 17:25:10,266 INFO received ack: {"type": "push-ack", "lastRefTime":"564853385500", "data":""} from: 192.168.160.1:57894, cost: 3 ms, unacked: 1, total push: 9
+
+2021-08-26 17:25:10,269 INFO received ack: {"type": "push-ack", "lastRefTime":"564853385500", "data":""} from: 192.168.160.1:56851, cost: 5 ms, unacked: 0, total push: 9
+
+2021-08-26 17:25:52,196 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:25:52,197 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:57894, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,57894,606786975200
+
+2021-08-26 17:25:52,197 INFO send udp packet: 192.168.160.1,57894,606786975200
+
+2021-08-26 17:25:52,198 INFO received ack: {"type": "push-ack", "lastRefTime":"606786975200", "data":""} from: 192.168.160.1:57894, cost: 1 ms, unacked: 0, total push: 10
+
+2021-08-26 17:26:03,939 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:26:03,939 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:57894, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,57894,618529635600
+
+2021-08-26 17:26:03,940 INFO send udp packet: 192.168.160.1,57894,618529635600
+
+2021-08-26 17:26:03,940 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:54171, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,54171,618529635600
+
+2021-08-26 17:26:03,940 INFO send udp packet: 192.168.160.1,54171,618529635600
+
+2021-08-26 17:26:03,943 INFO received ack: {"type": "push-ack", "lastRefTime":"618529635600", "data":""} from: 192.168.160.1:57894, cost: 3 ms, unacked: 1, total push: 12
+
+2021-08-26 17:26:13,584 INFO received ack: {"type": "push-ack", "lastRefTime":"618529635600", "data":""} from: 192.168.160.1:54171, cost: 9644 ms, unacked: 0, total push: 12
+
+2021-08-26 17:26:14,591 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:26:14,592 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:57894, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,57894,629181668800
+
+2021-08-26 17:26:14,592 INFO send udp packet: 192.168.160.1,57894,629181668800
+
+2021-08-26 17:26:14,592 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:54171, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,54171,629181668800
+
+2021-08-26 17:26:14,592 INFO send udp packet: 192.168.160.1,54171,629181668800
+
+2021-08-26 17:26:14,593 INFO received ack: {"type": "push-ack", "lastRefTime":"629181668800", "data":""} from: 192.168.160.1:57894, cost: 1 ms, unacked: 1, total push: 14
+
+2021-08-26 17:26:14,593 INFO received ack: {"type": "push-ack", "lastRefTime":"629181668800", "data":""} from: 192.168.160.1:54171, cost: 1 ms, unacked: 0, total push: 14
+
+2021-08-26 17:27:52,384 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:27:52,384 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:57894, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,57894,726974511100
+
+2021-08-26 17:27:52,384 INFO send udp packet: 192.168.160.1,57894,726974511100
+
+2021-08-26 17:27:52,385 INFO received ack: {"type": "push-ack", "lastRefTime":"726974511100", "data":""} from: 192.168.160.1:57894, cost: 1 ms, unacked: 0, total push: 15
+
+2021-08-26 17:28:02,650 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:28:02,650 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:57894, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,57894,737240649200
+
+2021-08-26 17:28:02,650 INFO send udp packet: 192.168.160.1,57894,737240649200
+
+2021-08-26 17:28:02,651 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:62904, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,62904,737240649200
+
+2021-08-26 17:28:02,651 INFO send udp packet: 192.168.160.1,62904,737240649200
+
+2021-08-26 17:28:02,653 INFO received ack: {"type": "push-ack", "lastRefTime":"737240649200", "data":""} from: 192.168.160.1:57894, cost: 3 ms, unacked: 1, total push: 17
+
+2021-08-26 17:28:05,392 INFO received ack: {"type": "push-ack", "lastRefTime":"737240649200", "data":""} from: 192.168.160.1:62904, cost: 2741 ms, unacked: 0, total push: 17
+
+2021-08-26 17:28:11,411 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:28:11,413 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:57894, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,57894,746002710000
+
+2021-08-26 17:28:11,414 INFO send udp packet: 192.168.160.1,57894,746002710000
+
+2021-08-26 17:28:11,414 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:62904, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,62904,746002710000
+
+2021-08-26 17:28:11,414 INFO send udp packet: 192.168.160.1,62904,746002710000
+
+2021-08-26 17:28:11,415 INFO received ack: {"type": "push-ack", "lastRefTime":"746002710000", "data":""} from: 192.168.160.1:57894, cost: 1 ms, unacked: 1, total push: 19
+
+2021-08-26 17:28:11,416 INFO received ack: {"type": "push-ack", "lastRefTime":"746002710000", "data":""} from: 192.168.160.1:62904, cost: 2 ms, unacked: 0, total push: 19
+
+2021-08-26 17:30:22,587 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:30:22,587 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:57894, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,57894,877177176300
+
+2021-08-26 17:30:22,587 INFO send udp packet: 192.168.160.1,57894,877177176300
+
+2021-08-26 17:30:22,588 INFO received ack: {"type": "push-ack", "lastRefTime":"877177176300", "data":""} from: 192.168.160.1:57894, cost: 1 ms, unacked: 0, total push: 20
+
+2021-08-26 17:30:37,694 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:30:37,694 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:57894, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,57894,892285291000
+
+2021-08-26 17:30:37,694 INFO send udp packet: 192.168.160.1,57894,892285291000
+
+2021-08-26 17:30:37,697 INFO received ack: {"type": "push-ack", "lastRefTime":"892285291000", "data":""} from: 192.168.160.1:57894, cost: 3 ms, unacked: 0, total push: 21
+
+2021-08-26 17:36:24,285 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:36:24,285 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:52117, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,52117,1238875547800
+
+2021-08-26 17:36:24,285 INFO send udp packet: 192.168.160.1,52117,1238875547800
+
+2021-08-26 17:36:24,288 INFO received ack: {"type": "push-ack", "lastRefTime":"1238875547800", "data":""} from: 192.168.160.1:52117, cost: 3 ms, unacked: 0, total push: 22
+
+2021-08-26 17:36:39,321 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:36:39,321 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:56369, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,56369,1253911582000
+
+2021-08-26 17:36:39,321 INFO send udp packet: 192.168.160.1,56369,1253911582000
+
+2021-08-26 17:36:39,327 INFO received ack: {"type": "push-ack", "lastRefTime":"1253911582000", "data":""} from: 192.168.160.1:56369, cost: 6 ms, unacked: 0, total push: 23
+
+2021-08-26 17:36:45,354 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:36:45,354 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:57894, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,57894,1259944626500
+
+2021-08-26 17:36:45,354 INFO send udp packet: 192.168.160.1,57894,1259944626500
+
+2021-08-26 17:36:45,354 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:56369, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,56369,1259944626500
+
+2021-08-26 17:36:45,354 INFO send udp packet: 192.168.160.1,56369,1259944626500
+
+2021-08-26 17:36:45,355 INFO received ack: {"type": "push-ack", "lastRefTime":"1259944626500", "data":""} from: 192.168.160.1:57894, cost: 1 ms, unacked: 1, total push: 25
+
+2021-08-26 17:36:45,355 INFO received ack: {"type": "push-ack", "lastRefTime":"1259944626500", "data":""} from: 192.168.160.1:56369, cost: 1 ms, unacked: 0, total push: 25
+
+2021-08-26 17:37:24,405 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:37:24,405 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:57894, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,57894,1298995404100
+
+2021-08-26 17:37:24,405 INFO send udp packet: 192.168.160.1,57894,1298995404100
+
+2021-08-26 17:37:24,406 INFO received ack: {"type": "push-ack", "lastRefTime":"1298995404100", "data":""} from: 192.168.160.1:57894, cost: 1 ms, unacked: 0, total push: 26
+
+2021-08-26 17:37:39,433 INFO DEFAULT_GROUP@@dubbo-provider is changed, add it to push queue.
+
+2021-08-26 17:37:39,433 INFO serviceName: DEFAULT_GROUP@@dubbo-provider changed, schedule push for: 192.168.160.1:57894, agent: Nacos-Java-Client:v1.4.2, key: 192.168.160.1,57894,1314024301200
+
+2021-08-26 17:37:39,433 INFO send udp packet: 192.168.160.1,57894,1314024301200
+
+2021-08-26 17:37:39,440 INFO received ack: {"type": "push-ack", "lastRefTime":"1314024301200", "data":""} from: 192.168.160.1:57894, cost: 7 ms, unacked: 0, total push: 27
+
+2021-08-26 17:40:14,737 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+
+2021-08-26 17:40:29,764 INFO DEFAULT_GROUP@@dubbo-consumer is changed, add it to push queue.
+

@@ -1,0 +1,36 @@
+2021-08-27 09:38:28,041 INFO DEFAULT_GROUP@@providers:com.sakura.service.UserService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.29.96.1:20880:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-08-27 09:38:28,043 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.sakura.service.UserService::, ips: 172.29.96.1:20880_true,
+
+2021-08-27 09:38:28,049 INFO DEFAULT_GROUP@@providers:com.sakura.service.UserService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.29.96.1:20880:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-08-27 09:38:28,049 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.sakura.service.UserService::, ips: 
+
+2021-08-27 10:02:10,433 INFO DEFAULT_GROUP@@providers:com.sakura.service.UserService:: {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.29.96.1:20880:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-08-27 10:02:10,433 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.sakura.service.UserService::, ips: 172.29.96.1:20880_true,
+
+2021-08-27 10:02:10,439 INFO DEFAULT_GROUP@@providers:com.sakura.service.UserService:: {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.29.96.1:20880:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-08-27 10:02:10,439 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@providers:com.sakura.service.UserService::, ips: 
+
+2021-08-27 11:04:31,042 INFO DEFAULT_GROUP@@dubbo-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:20880:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-08-27 11:04:31,042 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@dubbo-provider, ips: 192.168.160.1:20880_true,
+
+2021-08-27 11:04:49,890 INFO DEFAULT_GROUP@@dubbo-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-08-27 11:04:49,891 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@dubbo-consumer, ips: 192.168.160.1:-1_true,
+
+2021-08-27 11:06:25,080 INFO {POS} {IP-DISABLED} valid: 192.168.160.1:-1@DEFAULT@DEFAULT_GROUP@@dubbo-consumer, region: unknown, msg: client timeout after 15000, last beat: 1630033570067
+
+2021-08-27 11:06:26,209 INFO {POS} {IP-DISABLED} valid: 192.168.160.1:20880@DEFAULT@DEFAULT_GROUP@@dubbo-provider, region: unknown, msg: client timeout after 15000, last beat: 1630033571198
+
+2021-08-27 11:06:40,207 INFO DEFAULT_GROUP@@dubbo-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-08-27 11:06:40,207 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@dubbo-consumer, ips: 
+
+2021-08-27 11:06:41,244 INFO DEFAULT_GROUP@@dubbo-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:20880:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-08-27 11:06:41,244 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@dubbo-provider, ips: 
+

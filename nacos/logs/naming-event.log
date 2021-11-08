@@ -1,0 +1,230 @@
+2021-11-08 10:01:06,032 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:01:06,035 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 192.168.160.1:8071_true,
+
+2021-11-08 10:03:23,197 INFO DEFAULT_GROUP@@product-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8072:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:03:23,197 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@product-service, ips: 192.168.160.1:8072_true,
+
+2021-11-08 10:04:59,066 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:04:59,066 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 10:37:23,663 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:37:23,663 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2021-11-08 10:37:54,826 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:37:54,826 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 192.168.160.1:8071_true,
+
+2021-11-08 10:37:58,902 INFO DEFAULT_GROUP@@product-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8072:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:37:58,902 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@product-service, ips: 
+
+2021-11-08 10:38:16,654 INFO DEFAULT_GROUP@@product-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8072:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:38:16,654 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@product-service, ips: 192.168.160.1:8072_true,
+
+2021-11-08 10:38:21,216 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:38:21,216 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 10:38:33,348 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:38:33,348 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 10:40:24,753 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:40:24,753 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 10:40:34,797 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:40:34,797 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 10:45:21,509 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:45:21,509 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2021-11-08 10:45:22,892 INFO DEFAULT_GROUP@@product-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8072:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:45:22,892 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@product-service, ips: 
+
+2021-11-08 10:45:24,157 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:45:24,157 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 10:45:36,540 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:45:36,540 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 192.168.160.1:8071_true,
+
+2021-11-08 10:45:43,379 INFO DEFAULT_GROUP@@product-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8072:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:45:43,379 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@product-service, ips: 192.168.160.1:8072_true,
+
+2021-11-08 10:45:49,240 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:45:49,240 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 10:47:19,638 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:47:19,638 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 10:47:32,081 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:47:32,081 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 10:49:19,385 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:49:19,385 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 10:49:39,006 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:49:39,007 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 10:52:41,120 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:52:41,120 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 10:52:52,576 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 10:52:52,576 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 11:01:15,183 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:01:15,183 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 11:01:26,951 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:01:26,951 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 11:02:10,156 INFO DEFAULT_GROUP@@product-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8072:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:02:10,156 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@product-service, ips: 
+
+2021-11-08 11:02:19,077 INFO DEFAULT_GROUP@@product-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8072:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:02:19,078 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@product-service, ips: 192.168.160.1:8072_true,
+
+2021-11-08 11:02:54,403 INFO {POS} {IP-DISABLED} valid: 192.168.160.1:8073@DEFAULT@DEFAULT_GROUP@@order-service, region: unknown, msg: client timeout after 15000, last beat: 1636340558050
+
+2021-11-08 11:03:09,492 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-11-08 11:03:09,492 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 11:03:57,062 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:03:57,062 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 11:04:14,556 INFO {POS} {IP-DISABLED} valid: 192.168.160.1:8073@DEFAULT@DEFAULT_GROUP@@order-service, region: unknown, msg: client timeout after 15000, last beat: 1636340637061
+
+2021-11-08 11:04:22,375 INFO service: DEFAULT_GROUP@@order-service {POS} {IP-ENABLED} valid: 192.168.160.1:8073@DEFAULT, region: unknown, msg: client beat ok
+
+2021-11-08 11:05:31,432 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:05:31,432 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 11:05:43,185 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:05:43,185 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 11:06:01,528 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:06:01,528 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 11:06:12,768 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:06:12,768 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 11:06:27,706 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:06:27,706 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 11:06:38,688 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:06:38,688 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 11:08:54,119 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:08:54,119 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 11:09:05,389 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:09:05,389 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 11:09:32,070 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:09:32,070 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 11:09:46,055 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:09:46,055 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 11:10:17,430 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:10:17,430 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 11:10:35,173 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:10:35,173 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 11:26:58,458 INFO DEFAULT_GROUP@@product-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8072:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:26:58,458 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@product-service, ips: 
+
+2021-11-08 11:27:08,723 INFO DEFAULT_GROUP@@product-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8072:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:27:08,723 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@product-service, ips: 192.168.160.1:8072_true,
+
+2021-11-08 11:27:15,273 INFO DEFAULT_GROUP@@product-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 11:27:15,273 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@product-service, ips: 192.168.160.1:8072_true,192.168.160.1:8082_true,
+
+2021-11-08 13:50:16,809 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 13:50:16,809 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 13:50:30,895 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 13:50:30,895 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 13:53:00,511 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 13:53:00,511 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 13:53:12,126 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 13:53:12,126 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 13:54:19,555 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 13:54:19,555 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 13:54:31,684 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 13:54:31,684 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 14:07:21,059 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 14:07:21,059 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 14:11:44,934 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 14:11:44,934 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 14:15:48,368 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 14:15:48,368 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 14:16:00,033 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 14:16:00,033 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
+2021-11-08 14:16:27,827 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 14:16:27,827 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 
+
+2021-11-08 14:16:40,714 INFO DEFAULT_GROUP@@order-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.160.1:8073:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-11-08 14:16:40,714 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order-service, ips: 192.168.160.1:8073_true,
+
