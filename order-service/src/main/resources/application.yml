@@ -1,0 +1,16 @@
+server:
+  port: 8073
+
+spring:
+  application:
+    name: order-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:4396
+    sentinel:
+      enabled: true # 是否开启。默认为 true 开启
+      eager: true # 是否饥饿加载。默认为 false 关闭
+      transport:
+        dashboard: localhost:8070 # 指定控制台服务的地址
+        port: 9999
