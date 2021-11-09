@@ -17,6 +17,10 @@ spring:
           uri: lb://order-service #lb 表示负载均衡 //后面加的是注册中心的服务名称 它会在这个服务中查询接口
           predicates:
             - Path=/order/* #请求路径的规则 所有符合/order/**的请求都会被网关使用  还可以自定义Method 直接拦截所有GET POST请求
+        - id: product-s
+          uri: lb://product-service
+          predicates:
+            - Method=GET
     sentinel:
       enabled: true # 是否开启。默认为 true 开启
       eager: true # 是否饥饿加载。默认为 false 关闭
