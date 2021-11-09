@@ -1,0 +1,25 @@
+server:
+  port: 8077
+
+spring:
+  application:
+    name: main-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:4396
+    gateway:
+      discovery:
+        locator:
+          enabled: true #允许通过注册中心地址调用
+      routes:
+        - id: order_route
+          uri: lb://order-service #lb 表示负载均衡 //后面加的是注册中心的服务名称 它会在这个服务中查询接口
+          predicates:
+            - Path=/order/* #请求路径的规则 所有符合/order/**的请求都会被网关使用  还可以自定义Method 直接拦截所有GET POST请求
+    sentinel:
+      enabled: true # 是否开启。默认为 true 开启
+      eager: true # 是否饥饿加载。默认为 false 关闭
+      transport:
+        dashboard: localhost:8070 # 指定控制台服务的地址
+        port: 9999
